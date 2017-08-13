@@ -11,7 +11,7 @@
 
 // Login credentials
 $username = "root";
-$password = "Cis813401";
+$password = "**********";
 $dbname = "mysql";
 
 //POST variables
